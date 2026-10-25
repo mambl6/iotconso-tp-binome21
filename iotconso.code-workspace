@@ -1,0 +1,13 @@
+{
+  "folders": [
+    { "path": "ESP32_Helloworld" },
+    { "path": "ESP32_Blink" },
+    { "path": "ESP32_Sos" },
+    { "path": ".", "name": "repo (root)" }
+  ],
+  "settings": {
+    "files.exclude": {
+      "ESP32_*": true
+    }
+  }
+}
